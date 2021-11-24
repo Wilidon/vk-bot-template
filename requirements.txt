@@ -1,0 +1,9 @@
+SQLAlchemy
+pydantic
+pydantic[dotenv]
+psycopg2-binary
+vkwave
+loguru
+tzlocal
+pytz
+alembic
